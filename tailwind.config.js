@@ -9,7 +9,7 @@ module.exports = {
         primary: { ...colors.pink, ...{ DEFAULT: colors.pink['500'] } },
         secondary: { ...colors.cyan, ...{ DEFAULT: colors.cyan['500'] } },
         dark: { ...colors.trueGray, ...{ DEFAULT: colors.black, 950: '#080808' } },
-        light: { ...colors.gray, ...{ DEFAULT: colors.gray['50'] } }
+        light: { ...colors.lightBlue, ...{ DEFAULT: colors.lightBlue['50'] } }
       },
       // To add fonts
       fontFamily: {
