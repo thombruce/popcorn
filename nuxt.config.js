@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'popcorn',
+    title: 'Popcorn',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -28,6 +28,8 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@thombruce/tnt',
+    '@thombruce/nuxt-taxonomies'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
