@@ -37,7 +37,8 @@ export default {
   buildModules: [
     '@thombruce/tnt',
     '@thombruce/nuxt-taxonomies',
-    '@thombruce/vue-timepiece/nuxt'
+    '@thombruce/vue-timepiece/nuxt',
+    '@thombruce/vue-fountain/nuxt'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

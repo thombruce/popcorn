@@ -1500,6 +1500,11 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
+"@thombruce/fountain-js@^1.5.1":
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/@thombruce/fountain-js/-/fountain-js-1.5.2.tgz#feb71f6226f40d79eb3799c38cea8175140509c7"
+  integrity sha512-/u0wIx/ajqBYromQkKrmM2tv2XqGxXaqhcll3RcP+LhvbUuzWyeAfYQMtK9uAQxucZ6uO5hW6rBLHGaD6RnjsQ==
+
 "@thombruce/nuxt-taxonomies@^0.1.3":
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/@thombruce/nuxt-taxonomies/-/nuxt-taxonomies-0.1.3.tgz#e69ecfae991cc351be993e86203b2865bd3c6819"
@@ -1522,6 +1527,13 @@
     pug "^3.0.2"
     pug-plain-loader "^1.1.0"
     simple-icons "^5.0.0"
+
+"@thombruce/vue-fountain@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@thombruce/vue-fountain/-/vue-fountain-0.2.4.tgz#0af36010685a00661e41daca6385d872ef5418c1"
+  integrity sha512-brVa9ToJ3eEPR7d2Xf0W+AHjCFFGdsgOcTNwcUsEnEU8vXp6rKw5tyF6A6kM+wQOi3CDLEi3bsaiywHUlGg1IQ==
+  dependencies:
+    "@thombruce/fountain-js" "^1.5.1"
 
 "@thombruce/vue-timepiece@^0.1.4":
   version "0.1.4"

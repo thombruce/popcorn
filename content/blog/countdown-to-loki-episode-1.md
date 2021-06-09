@@ -12,6 +12,10 @@ tags:
   - MCU
   - Loki
   - Thor
+  - Countdown
+  - Air date
+  - Release date
+  - Premiere
 ---
 
 <div class='text-center py-12 text-6xl font-mono'>
