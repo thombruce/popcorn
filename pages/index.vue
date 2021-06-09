@@ -17,6 +17,12 @@ export default {
       .catch(() => {})
 
     return { pages, articles }
+  },
+  head () {
+    return {
+      title: 'Popcorn',
+      titleTemplate: null
+    }
   }
 }
 </script>

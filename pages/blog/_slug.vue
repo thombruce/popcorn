@@ -27,8 +27,14 @@ export default {
   },
   head () {
     return {
+      title: this.article.title ? this.article.title : this.slug,
       meta: [
         { hid: 'og:title', property: 'og:title', content: `${this.article.title} | Popcorn` },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: `${this.article.description ? this.article.description : 'Yet another culture blog.'}`
+        },
         { hid: 'og:type', property: 'og:type', content: 'article' },
         { hid: 'og:url', property: 'og:url', content: `https://popcorn.thombruce.com${this.$route.fullPath}` },
         {
