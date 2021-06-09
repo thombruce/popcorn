@@ -40,7 +40,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `https://popcorn.thombruce.com/static${this.article.image ? this.article.image : 'popcorn.jpg'}`
+          content: `https://popcorn.thombruce.com/${this.article.image ? this.$img(this.article.image, { width: '1200px', height: '627px' }) : 'popcorn.jpg'}`
         }
       ]
     }
