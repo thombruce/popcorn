@@ -1,7 +1,5 @@
 <template lang='pug'>
 header.py-4
-  NuxtImg(v-if='article.image' :src='article.image' width='100vw')
-
   dl.inline-block.mr-3(v-if='article.categories')
     dt.sr-only Categories
     dd(v-for='category in article.categories')
