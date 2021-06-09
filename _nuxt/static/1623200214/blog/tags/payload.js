@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/tags", {data:[{slug:"tags",article:[{slug:"marvel",title:"Marvel"},{slug:"mcu",title:"MCU"},{slug:"loki",title:"Loki"},{slug:"thor",title:"Thor"}],_img:{}}],fetch:{},mutations:void 0});
