@@ -18,6 +18,10 @@ tags:
 
 Episode one of Loki, _Glorious Purpose_, lays down the law and changes the rules of the MCU within its first twenty minutes. And it's an absolute stylistic and comedic delight. I can already tell I'm going to love this series.
 
+<spoiler-warning>
+<template>Spoilers for Loki Episode 1 and the MCU</template>
+</spoiler-warning>
+
 The episode begins where _Avengers: Endgame_ left off with Loki - New York, 2012. Loki has just gotten his hands on the Tesseract due to the Avengers' mishap and promptly uses it to disappear. And I know we've seen that bit before (a dozen or so times if you've watched _Endgame_ as much as I have), but seeing the series start out this way put a huge grin on my face. After that, we follow Loki across space to Mongolia, where his first instinct upon encountering the local inhabitants is to find a big rock to stand on and reassert his _glorious purpose_. In a valley of flat desert, he who stands on the biggest rock is king, hmm?
 
 I was surprised at how little of Loki's antics we saw before the Time Variance Authority showed up to handle this divergence in the timeline. Immediately after attempting to assert his dominance from a big rock in the desert, Loki is confronted by the TVA and quickly taken into their custody. The rest of the episode then, at least so far as this Loki variant is concerned, takes place within the bizarre, beautifully designed office space of the TVA.
