@@ -8,7 +8,12 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      { hid: 'description', name: 'description', content: '' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Popcorn' },
+      { hid: 'og:title', property: 'og:title', content: 'Popcorn' },
+      { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:url', property: 'og:url', content: 'https://popcorn.thombruce.com/' },
+      { hid: 'og:image', property: 'og:image', content: 'https://popcorn.thombruce.com/popcorn.jpg' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

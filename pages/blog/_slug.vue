@@ -24,6 +24,20 @@ export default {
       })
 
     return { slug, article }
+  },
+  head () {
+    return {
+      meta: [
+        { hid: 'og:title', property: 'og:title', content: `${this.article.title} | Popcorn` },
+        { hid: 'og:type', property: 'og:type', content: 'article' },
+        { hid: 'og:url', property: 'og:url', content: `https://popcorn.thombruce.com${this.$route.fullPath}` },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: `https://popcorn.thombruce.com/static${this.article.image ? this.article.image : 'popcorn.jpg'}`
+        }
+      ]
+    }
   }
 }
 </script>
