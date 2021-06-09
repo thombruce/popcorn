@@ -36,7 +36,7 @@ export default {
           content: `${this.article.description ? this.article.description : 'Yet another culture blog.'}`
         },
         { hid: 'og:type', property: 'og:type', content: 'article' },
-        { hid: 'og:url', property: 'og:url', content: `https://popcorn.thombruce.com${this.$route.fullPath}` },
+        { hid: 'og:url', property: 'og:url', content: `https://popcorn.thombruce.com${this.$route.fullPath}/` },
         {
           hid: 'og:image',
           property: 'og:image',
