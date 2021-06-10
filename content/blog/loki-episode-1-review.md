@@ -2,10 +2,11 @@
 title: Loki Episode 1 Review
 description: I am Loki of Asgard, and I am burdened with glorious purpose.
 image: /uploads/loki-episode-1.png
-spoilerWarning: Spoilers for Loki Episode 1
+author: Thom Bruce
 createdAt: 2021-06-09T16:41:00Z
 categories:
   - TV
+  - Reviews
 series:
   - Loki
 tags:
@@ -14,6 +15,7 @@ tags:
   - Loki
   - Thor
   - Premiere
+  - Review
 ---
 
 Episode one of Loki, _Glorious Purpose_, lays down the law and changes the rules of the MCU within its first twenty minutes. And it's an absolute stylistic and comedic delight. I can already tell I'm going to love this series.
