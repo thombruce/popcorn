@@ -21,7 +21,7 @@ export default {
     const term = await $taxonomies(taxonomy, 'blog').find(params.term)
 
     const articles = await $content('blog')
-      .where({ [taxonomy]: { $contains: term.title } })
+      .where({ $or: [{ [taxonomy]: { $contains: term.title } }, { [taxonomy]: { $eq: term.title } }] })
       .sortBy('createdAt', 'desc')
       .fetch()
 
