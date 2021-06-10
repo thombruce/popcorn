@@ -1539,7 +1539,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#063ec0548f149901014ac22958d8435697d5cad2"
+  resolved "https://github.com/thombruce/tnt#ac81dae6da63bb90342ef3a668ccbd80a77f22ea"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
     "@nuxt/image" "^0.4.14"
@@ -1547,6 +1547,7 @@
     "@nuxtjs/fontawesome" "^1.1.2"
     "@nuxtjs/tailwindcss" "^4.1.2"
     "@tailwindcss/forms" "^0.3.3"
+    "@thombruce/nuxt-taxonomies" "^0.1.4"
     lodash "^4.17.21"
     postcss "^8.3.0"
     pug "^3.0.2"
