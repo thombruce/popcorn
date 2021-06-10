@@ -19,6 +19,9 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    script: [
+      { src: 'https://analytics.thombruce.com/umami.js', 'data-website-id': '3ef9958b-b845-4154-84ff-e9049c41f1ff', async: true, defer: true }
     ]
   },
 
