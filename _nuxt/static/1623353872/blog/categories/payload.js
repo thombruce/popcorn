@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog/categories", {data:[{slug:"categories",article:[{slug:"tv",title:"TV"},{slug:"reviews",title:"Reviews"}],_img:{}}],fetch:{},mutations:void 0});
