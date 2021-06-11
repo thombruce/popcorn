@@ -1539,7 +1539,7 @@
 
 "@thombruce/tnt@https://github.com/thombruce/tnt":
   version "0.1.0"
-  resolved "https://github.com/thombruce/tnt#ac81dae6da63bb90342ef3a668ccbd80a77f22ea"
+  resolved "https://github.com/thombruce/tnt#e381c09d6bdacdf021c552a0d324d435627990e6"
   dependencies:
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
     "@nuxt/image" "^0.4.14"
