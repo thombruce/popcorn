@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/series", {data:[{slug:"series",article:[{slug:"loki",title:"Loki"}],_img:{}}],fetch:{},mutations:void 0});
