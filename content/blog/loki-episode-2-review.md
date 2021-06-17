@@ -1,7 +1,7 @@
 ---
 title: Loki Episode 2 Review
 description: This isn't about you.
-image: /uploads/loki-episode-1.png
+image: /uploads/loki-episode-2.png
 authors:
   - Thom Bruce
 createdAt: 2021-06-17T16:20:43Z
