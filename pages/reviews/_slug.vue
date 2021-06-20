@@ -1,14 +1,24 @@
 <template lang='pug'>
-div
+div(v-if='article')
   TntContent(:article='article')
 </template>
 
 <script>
-// TODO: Extending, rather than overwriting components, would save us some amount of code duplication.
 export default {
-  props: [
-    'article'
-  ],
+  async asyncData ({ $content, redirect, query, params }) {
+    const slug = params.slug
+
+    const article = await $content('reviews', slug)
+      .where({ draft: { $ne: true } })
+      .fetch()
+
+    if (article.redirect) {
+      redirect({ path: article.redirect, query: query })
+    } else {
+      return { slug, article }
+    }
+  },
+
   head () {
     return {
       title: this.article.title,

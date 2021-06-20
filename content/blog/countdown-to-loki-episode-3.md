@@ -11,7 +11,6 @@ tags:
   - Marvel
   - MCU
   - Loki
-  - Thor
   - Countdown
   - Air date
   - Release date

@@ -6,7 +6,7 @@ article
 <script>
 export default {
   async asyncData ({ $content }) {
-    const articles = await $content('blog')
+    const articles = await $content('reviews')
       .where({ draft: { $ne: true } })
       .sortBy('createdAt', 'desc')
       .fetch()

@@ -21,6 +21,10 @@ export default {
           to: '/blog'
         },
         {
+          title: 'Reviews',
+          to: '/reviews'
+        },
+        {
           title: 'Credits',
           to: '/credits'
         }
