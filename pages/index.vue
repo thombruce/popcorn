@@ -13,12 +13,10 @@ export default {
       .catch(() => {})
 
     let articles = await $content('', { deep: true })
-      .where({ $and: [{ draft: { $ne: true } }, { dir: { $ne: '/' } }] })
+      .where({ $and: [{ draft: { $ne: true } }, { dir: { $ne: '/' } }, { redirect: { $type: 'undefined' } }] })
       .sortBy('createdAt', 'desc')
       .fetch()
       .catch(() => {})
-
-    articles = articles.filter(article => article.redirect === undefined)
     
     return { pages, articles }
   },
