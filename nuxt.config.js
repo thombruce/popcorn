@@ -2,6 +2,10 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  env: {
+    baseUrl: process.env.BASE_URL || process.env.URL || (process.env.NODE_ENV === 'production' ? 'https://popcorn.thombruce.com' : 'http://localhost:3000')
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Popcorn',

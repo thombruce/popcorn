@@ -30,11 +30,11 @@ export default {
           content: `${this.article.description ? this.article.description : 'Yet another culture blog.'}`
         },
         { hid: 'og:type', property: 'og:type', content: 'article' },
-        { hid: 'og:url', property: 'og:url', content: `https://popcorn.thombruce.com${this.$route.fullPath}/` },
+        { hid: 'og:url', property: 'og:url', content: `${process.env.baseUrl}${this.$route.fullPath}/` },
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `https://popcorn.thombruce.com${this.article.image ? this.$img(this.article.image, { width: '1200px', height: '627px' }) : '/popcorn.jpg'}`
+          content: `${process.env.baseUrl}${this.article.image ? this.$img(this.article.image, { width: '1200px', height: '627px' }) : '/popcorn.jpg'}`
         }
       ]
     }
