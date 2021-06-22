@@ -25,6 +25,10 @@ export default {
           to: '/reviews'
         },
         {
+          title: 'Upcoming',
+          to: '/releases'
+        },
+        {
           title: 'Credits',
           to: '/credits'
         }

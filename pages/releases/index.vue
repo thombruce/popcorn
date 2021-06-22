@@ -6,8 +6,8 @@ article
 <script>
 export default {
   async asyncData ({ $content }) {
-    const articles = await $content('blog')
-      .where({ $and: [{ draft: { $ne: true } }, { redirect: { $type: 'undefined' } }] })
+    const articles = await $content('releases')
+      .where({ draft: { $ne: true } })
       .sortBy('createdAt', 'desc')
       .fetch()
       .catch(() => {})
