@@ -1,6 +1,6 @@
 ---
 title: Loki Episode 3 Review
-description: This isn't about you.
+description: Of all of the apocalypses...
 image: /uploads/loki-episode-3.png
 authors:
   - Thom Bruce
