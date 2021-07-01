@@ -59,7 +59,7 @@ Prune him.
 
 As Mobius is pruned from existence, not for the first time this episode we get a glimpse of Tom Hiddleston's amazing range as an actor; his expressions were on point when discussing Loki's love for Sylvie, and they're on point here as he witnesses his friend being erased. It has been, more than once, genuinely painful to watch Tom Hiddleston's facial expressions because he delivers on the emotional impact of these scenes with such conviction!
 
-Finally, Loki and Sylvie are reunited and taken to meet their end under the observation of the Time-Keepers. Sylvie asks what exactly her nexus event was that had her brought in by the TVA as a child, and Renslayer simply responds that she doesn't remember. And oh my god, while we're talking about emotive acting, Sophia Di Martino is incredible as Sylvie her too!
+Finally, Loki and Sylvie are reunited and taken to meet their end under the observation of the Time-Keepers. Sylvie asks what exactly her nexus event was that had her brought in by the TVA as a child, and Renslayer simply responds that she doesn't remember. And oh my god, while we're talking about emotive acting, Sophia Di Martino is incredible as Sylvie here too!
 
 Renslayer calls for Loki and Sylvie to be pruned, but - just in the nick of time - Hunter B-15 arrives with Sylvie's machete and a fight breaks out in the chamber of the Time-Keepers. Choreography is a little weak, but Hiddleston sells Loki's admiration for Sylvie with constant glances to ensure she's doing okay. Really he needs to be paying more attention to the guys he's fighting; Sylvie proves herself to be the more capable combatant here, she's been running and fighting all her life.
 
@@ -100,7 +100,7 @@ Renslayer rises and gets into a brief scrap with Sylvie. Sylvie threatens Rensla
 
 And the credits roll. Wow!
 
-So, yeah, that was a lot... That was exciting. I'm loving the way the Loki and Sylvie's relationship has evolved, and how the show constantly manages to be surprising and theatrical. Just can't wait for episode 5 now!
+So, yeah, that was a lot... That was exciting. I'm loving the way that Loki and Sylvie's relationship has evolved, and how the show constantly manages to be surprising and theatrical. Just can't wait for episode 5 now!
 
 A countdown for the next episode can be found... Oh wait, there's more!
 
