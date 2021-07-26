@@ -4,7 +4,7 @@ description: The goddess of mischief.
 image: /uploads/loki-episode-4.png
 authors:
   - Thom Bruce
-createdAt: 2021-07-01T15:41:18Z
+date: 2021-07-01T15:41:18Z
 categories:
   - TV
 series:

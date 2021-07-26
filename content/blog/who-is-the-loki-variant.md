@@ -4,7 +4,7 @@ description: This isn't about you.
 image: /uploads/loki-the-variant.png
 authors:
   - Thom Bruce
-createdAt: 2021-06-19T14:42:16Z
+date: 2021-06-19T14:42:16Z
 categories:
   - TV
 series:

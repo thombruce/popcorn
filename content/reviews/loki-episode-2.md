@@ -4,7 +4,7 @@ description: This isn't about you.
 image: /uploads/loki-episode-2.png
 authors:
   - Thom Bruce
-createdAt: 2021-06-17T16:20:43Z
+date: 2021-06-17T16:20:43Z
 categories:
   - TV
 series:

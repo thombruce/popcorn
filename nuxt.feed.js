@@ -8,7 +8,7 @@ export default [
     async create(feed) {
       const posts = await $content('', { deep: true })
         .where({ $and: [{ draft: { $ne: true } }, { dir: { $in: ['/blog', '/reviews'] } }, { redirect: { $type: 'undefined' } }] })
-        .sortBy('createdAt', 'desc')
+        .sortBy('date', 'desc')
         .fetch()
         .catch(() => {})
 
@@ -20,7 +20,7 @@ export default [
           id: url,
           link: url,
           // author: post.authors,
-          date: new Date(post.createdAt),
+          date: new Date(post.date),
           description: post.description,
           // content: post.body
         })

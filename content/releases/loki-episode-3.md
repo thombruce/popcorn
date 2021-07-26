@@ -2,7 +2,7 @@
 title: Countdown to Loki Episode 3
 image: /uploads/loki.jpeg
 description: 'Where has Loki gone?'
-createdAt: 2021-06-17T18:49:52Z
+date: 2021-06-17T18:49:52Z
 categories:
   - TV
 series:

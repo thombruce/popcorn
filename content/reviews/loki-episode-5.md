@@ -4,7 +4,7 @@ description: Stronger than we realize.
 image: /uploads/loki-episode-5.png
 authors:
   - Thom Bruce
-createdAt: 2021-07-10T18:42:02Z
+date: 2021-07-10T18:42:02Z
 categories:
   - TV
 series:

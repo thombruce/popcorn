@@ -4,7 +4,7 @@ description: Of all of the apocalypses...
 image: /uploads/loki-episode-3.png
 authors:
   - Thom Bruce
-createdAt: 2021-06-25T12:35:19Z
+date: 2021-06-25T12:35:19Z
 categories:
   - TV
 series:

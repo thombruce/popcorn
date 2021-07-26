@@ -2,7 +2,7 @@
 title: Countdown to Loki Episode 4
 image: /uploads/loki.jpeg
 description: 'How to escape an apocalypse...'
-createdAt: 2021-06-25T14:16:07Z
+date: 2021-06-25T14:16:07Z
 categories:
   - TV
 series:

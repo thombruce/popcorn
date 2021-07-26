@@ -2,7 +2,7 @@
 title: Countdown to Loki Episode 6
 image: /uploads/loki.jpeg
 description: 'Who controls the TVA?'
-createdAt: 2021-07-10T18:46:39Z
+date: 2021-07-10T18:46:39Z
 categories:
   - TV
 series:

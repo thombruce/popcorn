@@ -2,7 +2,7 @@
 title: Countdown to Loki Episode 5
 image: /uploads/loki.jpeg
 description: 'How to escape an apocalypse...'
-createdAt: 2021-07-01T15:42:35Z
+date: 2021-07-01T15:42:35Z
 categories:
   - TV
 series:
