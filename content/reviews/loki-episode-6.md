@@ -4,7 +4,7 @@ description: For all time. Always.
 image: /uploads/loki-episode-6.png
 authors:
   - Thom Bruce
-date: 
+date: 2021-07-23T18:53:56Z
 categories:
   - TV
 series:
