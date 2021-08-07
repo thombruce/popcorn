@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1628356026",layout:"default",error:a,serverRendered:true,routePath:"\u002Fblog",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"8a2cb6a1"}},_img:{"/_ipx/uploads/loki-the-variant.png?s=200_200":"\u002F_nuxt\u002Fimage\u002F0be1d7.png"}}}(null));
