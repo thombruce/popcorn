@@ -3,6 +3,7 @@ title: Credits
 description: 'Packages and media used by Jameater.'
 date: 2021-06-07T20:00:05Z
 container: text-center
+showToC: false
 ---
 
 ## Writer/Developer
