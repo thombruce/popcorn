@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1628866464",layout:"default",error:a,serverRendered:true,routePath:"\u002Ftags\u002Frelease-date",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"c242cb0c"}},_img:{"/_ipx/uploads/loki.jpeg?s=200_200":"\u002F_nuxt\u002Fimage\u002F2f89d5.jpeg"}}}(null));
